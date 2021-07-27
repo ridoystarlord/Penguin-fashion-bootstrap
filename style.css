@@ -1,0 +1,17 @@
+header {
+  background: #fffbf0;
+}
+button {
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+}
+.bg-images {
+  background: #f1f1f1;
+}
+.images {
+  width: 210px;
+  height: 270px;
+}
+.icons {
+  width: 78px;
+  height: 82px;
+}
